@@ -1,0 +1,8 @@
+git init
+git branch
+git push origin
+git mv
+touch
+git commit -m
+git checkout
+git add .
